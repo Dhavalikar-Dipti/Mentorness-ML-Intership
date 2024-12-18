@@ -22,8 +22,9 @@ This repository contains the work completed during my internship. The projects i
   2. Exploratory data analysis (EDA) to identify patterns and trends.
   3. Model building using regression techniques such as:
      - Linear Regression
-     - Decision Trees
-     - Random Forests
+     - Decision Tree
+     - Random Forest
+     - Gradient Boost Regressor
   4. Evaluation using metrics like Mean Absolute Error (MAE) and R².
 - **Output:** A trained model capable of predicting salaries based on input features.
 
@@ -39,7 +40,8 @@ This repository contains the work completed during my internship. The projects i
   3. Model building using classification algorithms such as:
      - Logistic Regression
      - Random Forest
-     - Decision Trees
+     - Decision Tree
+     - Gradient Boost Classifier
   4. Evaluation using metrics like Accuracy, Precision, Recall, and F1-score.
 - **Output:** A model that predicts credit card application outcomes with high accuracy.
 
